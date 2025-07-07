@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Virtual Environment
+venv/
+
+# Environment variables
+.env
+
+# Operating System specific
+.DS_Store
+
+# IDE specific (VS Code example)
+.vscode/
+
+# Data
+data/raw/  # If raw data is too large or sensitive
+data/processed/ # Processed/intermediate data
+
+# Models
+models/
+*.pt
+*.h5
+*.pkl
+*.onnx
+
+# Outputs and Results
+outputs/
+results/
+generated_images/
+generated_text/
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Machine Learning/Deep Learning specific
+checkpoints/
+tensorboard_logs/
+runs/
