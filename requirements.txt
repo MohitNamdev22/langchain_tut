@@ -13,3 +13,5 @@ faiss-cpu
 langchain_chroma
 langchain-google-genai
 streamlit
+langchain-groq
+langchain_core
