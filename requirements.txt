@@ -20,3 +20,4 @@ uvicorn
 langserve
 sse_starlette
 pydantic
+altair
